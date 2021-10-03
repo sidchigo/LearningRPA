@@ -10,3 +10,4 @@ This repo has simple RPA processes created to have experience with UIPath
 6. Using looping controls
 7. Simple notepad automation
 8. Double UI automation
+9. Web automation with data scraping
