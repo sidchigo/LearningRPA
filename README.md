@@ -8,3 +8,4 @@ This repo has simple RPA processes created to have experience with UIPath
 4. Using different variable types
 5. Using if control to check even or odd
 6. Using looping controls
+7. Simple notepad automation
