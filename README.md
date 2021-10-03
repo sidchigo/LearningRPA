@@ -11,3 +11,4 @@ This repo has simple RPA processes created to have experience with UIPath
 7. Simple notepad automation
 8. Double UI automation
 9. Web automation with data scraping
+10. Check if array element starts with given letter
