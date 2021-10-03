@@ -6,3 +6,4 @@ This repo has simple RPA processes created to have experience with UIPath
 2. Flowchart activity to take name input
 3. Simple numeric math operations
 4. Using different variable types
+5. Using if control to check even or odd
