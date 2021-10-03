@@ -13,3 +13,4 @@ This repo has simple RPA processes created to have experience with UIPath
 9. Web automation with data scraping
 10. Check if array element starts with given letter
 11. Read, write and append operations with Excel
+12. Send email using UIPath
