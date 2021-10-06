@@ -15,3 +15,4 @@ This repo has simple RPA processes created to have experience with UIPath
 11. Read, write and append operations with Excel
 12. Send email using UIPath
 13. Simple Exception Handling
+14. Using sample config file
