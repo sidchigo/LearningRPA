@@ -18,3 +18,4 @@ This repo has simple RPA processes created to have experience with UIPath
 14. Using sample config file
 15. Transfer data from one excel file to other
 16. Empty gmail trash
+17. Extractign data from PDF files
